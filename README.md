@@ -14,7 +14,7 @@ https://github.com/tzpranto/CRISPR-DIPOFF
 
 https://github.com/tsailabSJ/circleseq
 
--Ensemble model training and evaluation is provided in - Ensemble Script 1a.ipynb. At the moment the output of piCRISPR requires manual merging with the piCRISPR input file, as well as, concatenation of CRISPR-DIPOFF output files based on the need to limit CRISPR-DIPOFF input files to sequences of the same length.
+-Ensemble model training and evaluation is provided in - Ensemble Script 1a.ipynb. At the moment the output of piCRISPR requires manual merging with the piCRISPR input file, as well as, the concatenation of CRISPR-DIPOFF output files based on the need to limit CRISPR-DIPOFF input files to sequences of the same length.
 
 -For purposes related to our coursework, we utilized the Sol HPC at ASU to perform this work, although not necessary
    
@@ -22,4 +22,5 @@ https://github.com/tsailabSJ/circleseq
 References
 -----
 Uribe-Salazar, J. M., Kaya, G., Sekar, A., Weyenberg, K., Ingamells, C., & Dennis, M. Y. (2022). Evaluation of CRISPR gene-editing tools in zebrafish. BMC genomics, 23, 1-16
+
 Jennewein, Douglas M. et al. "The Sol Supercomputer at Arizona State University." In Practice and Experience in Advanced Research Computing (pp. 296–301). Association for Computing Machinery, 2023, doi:10.1145/3569951.3597573
